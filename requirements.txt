@@ -1,7 +1,8 @@
 streamlit
 pymupdf
 python-docx
-chromadb
+chromadb==0.5.5
 sentence-transformers
 pydantic
 psutil
+protobuf==4.25.3
