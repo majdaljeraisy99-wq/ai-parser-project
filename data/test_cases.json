@@ -1,0 +1,26 @@
+[
+  {
+    "query": "ماذا قال الملك؟",
+    "expected_keywords": ["قال الملك", "الملك"]
+  },
+  {
+    "query": "ماذا قال الحسود؟",
+    "expected_keywords": ["قال الحسود", "الحسود"]
+  },
+  {
+    "query": "What did the king say?",
+    "expected_keywords": ["the king said", "king said"]
+  },
+  {
+    "query": "What did the man say?",
+    "expected_keywords": ["the man said", "man said"]
+  },
+  {
+    "query": "الكِتاب",
+    "expected_keywords": ["الكِتاب", "كتاب"]
+  },
+  {
+    "query": "ماذا قال المُعَلِّمُ؟",
+    "expected_keywords": ["قال المُعَلِّمُ", "المعلم"]
+  }
+]
